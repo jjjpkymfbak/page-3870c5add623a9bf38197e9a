@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "ecd7b987d63203507c68d6a4",
+  "owner": "jjjpkymfbak",
+  "repo": "page-3870c5add623a9bf38197e9a",
+  "title": "轻云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3870c5add623a9bf38197e9a",
+      "a": "轻云",
+      "b": "",
+      "entity": "轻云",
+      "brand": "轻云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "931e464512217e000d6bf5d2047338b696826cd65756cb2f2936ea06cd6f92ef",
+      "content": {
+        "keyword1": "轻云",
+        "keyword2": "",
+        "primary_entity": "轻云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "我们花了很长时间想明白一件事:网络不该是一堵墙,而该是一阵风。轻云不喧哗、不打扰,只在你需要的时候,把世界轻轻推到你面前。",
+          "AI_DESCRIPTION": "我们花了很长时间想明白一件事:网络不该是一堵墙,而该是一阵风。轻云不喧哗、不打扰,只在你需要的时候,把世界轻轻推到你面前。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n:root{--wine:#6B1E2A;--wine-deep:#4A1119;--wine-light:#8C2F3D;--ivory:#F7F1E6;--ivory-dim:#EFE6D4;--ink:#2B1A1C;--line:rgba(107,30,42,.18)}\n*{margin:0;padding:0;box-sizing:border-box}\nhtml{}\nbody{background:var(--ivory);color:var(--ink);font-family:\"Songti SC\",\"Noto Serif SC\",\"STSong\",Georgia,serif;line-height:1.8;padding-bottom:76px}\n::selection{background:var(--wine);color:var(--ivory)}\n\n/* ---------- HERO ---------- */\n.hero{min-height:100vh;background:var(--wine);color:var(--ivory);display:flex;flex-direction:column;justify-content:space-between;position:relative;overflow:hidden;padding:32px 5vw 48px}\n.hero::after{content:\"\";position:absolute;inset:0;background:\n    radial-gradient(ellipse 60% 45% at 85% 15%, rgba(255,255,255,.06), transparent 70%),\n    linear-gradient(160deg, transparent 55%, rgba(0,0,0,.28));pointer-events:none}\n.hero-top{display:flex;justify-content:space-between;align-items:baseline;font-size:13px;letter-spacing:.25em;opacity:.85;z-index:1}\n.hero-brand{z-index:1;font-size:clamp(120px, 28vw, 380px);font-weight:900;line-height:.92;letter-spacing:-.02em;margin:4vh 0;text-shadow:0 12px 60px rgba(0,0,0,.3)}\n.hero-brand span{display:block}\n.hero-brand .outline{color:transparent;-webkit-text-stroke:2px rgba(247,241,230,.75)}\n.hero-sub{z-index:1;display:flex;flex-wrap:wrap;gap:24px 6vw;align-items:flex-end;justify-content:space-between}\n.hero-sub p{max-width:34em;font-size:clamp(15px,1.6vw,19px);opacity:.92}\n.hero-cta{display:inline-block;margin-top:18px;border:1px solid var(--ivory);padding:12px 34px;color:var(--ivory);text-decoration:none;font-size:15px;letter-spacing:.2em;transition:.3s}\n.hero-cta:hover{background:var(--ivory);color:var(--wine)}\n.hero-no{font-size:12px;letter-spacing:.4em;opacity:.6}\n\n/* ---------- 通用区块 ---------- */\nsection{max-width:1080px;margin:0 auto;padding:96px 5vw 32px}\n.kicker{font-size:12px;letter-spacing:.5em;color:var(--wine);margin-bottom:14px}\n.kicker::before{content:\"—— \"}\nh2{font-size:clamp(26px,4vw,40px);font-weight:900;color:var(--wine-deep);margin-bottom:8px}\n.lede{color:#5c4a4c;max-width:40em;margin-bottom:48px}\n\n/* ---------- 序言 ---------- */\n.intro p{font-size:clamp(17px,2vw,21px);max-width:44em;margin-bottom:1.4em;text-align:justify}\n.intro em{font-style:normal;color:var(--wine);border-bottom:2px solid var(--wine)}\n.drop::first-letter{font-size:3.2em;float:left;line-height:.9;padding:6px 10px 0 0;color:var(--wine);font-weight:900}\n\n/* ---------- 色条卡片(特性) ---------- */\n.bar-cards{display:grid;gap:22px}\n.bar-card{display:flex;background:#fff;border:1px solid var(--line);box-shadow:0 6px 24px rgba(107,30,42,.06)}\n.bar-card::before{content:\"\";flex:0 0 8px;background:var(--wine)}\n.bar-card:nth-child(2)::before{background:var(--wine-light)}\n.bar-card:nth-child(3)::before{background:#B98A4A}\n.bar-card-body{padding:26px 30px}\n.bar-card h3{color:var(--wine-deep);font-size:20px;margin-bottom:6px}\n.bar-card p{color:#5c4a4c;font-size:15px}\n\n/* ---------- 套餐:阶梯式 ---------- */\n.plans{display:flex;align-items:flex-end;gap:24px;flex-wrap:wrap}\n.plan{flex:1 1 260px;background:#fff;border:1px solid var(--line);position:relative;padding:34px 28px 30px;box-shadow:0 8px 30px rgba(107,30,42,.07)}\n.plan::before{content:\"\";position:absolute;left:0;top:0;bottom:0;width:8px;background:var(--ivory-dim)}\n.plan.p1{margin-bottom:64px}\n.plan.p2{margin-bottom:28px;border-color:var(--wine)}\n.plan.p2::before{background:var(--wine)}\n.plan.p3{margin-bottom:0}\n.plan .tag{position:absolute;top:-14px;right:20px;background:var(--wine);color:var(--ivory);font-size:12px;letter-spacing:.2em;padding:5px 14px}\n.plan h3{font-size:22px;color:var(--wine-deep)}\n.plan .price{font-size:34px;font-weight:900;color:var(--wine);margin:10px 0 2px}\n.plan .annual{font-size:13px;color:#8a7375;margin-bottom:20px}\n.plan ul{list-style:none}\n.plan li{padding:10px 0 10px 24px;border-top:1px dashed var(--line);font-size:15px;position:relative}\n.plan li::before{content:\"\";position:absolute;left:2px;top:19px;width:8px;height:8px;background:var(--wine)}\n.plan .buy{display:block;text-align:center;margin-top:24px;padding:12px;text-decoration:none;letter-spacing:.25em;font-size:14px;border:1px solid var(--wine);color:var(--wine);transition:.3s}\n.plan .buy:hover,.plan.p2 .buy{background:var(--wine);color:var(--ivory)}\n.plan.p2 .buy:hover{background:var(--wine-deep)}\n\n/* ---------- FAQ 分组 ---------- */\n.faq-group{margin-bottom:44px}\n.faq-group>h3{color:var(--wine);font-size:17px;letter-spacing:.3em;border-bottom:2px solid var(--wine);display:inline-block;padding-bottom:6px;margin-bottom:18px}\ndetails{background:#fff;border:1px solid var(--line);border-left:8px solid var(--wine-light);margin-bottom:12px;padding:16px 24px}\nsummary{cursor:pointer;font-weight:700;color:var(--wine-deep);list-style:none;position:relative;padding-right:30px}\nsummary::after{content:\"+\";position:absolute;right:0;top:0;color:var(--wine);font-size:20px;transition:.25s}\ndetails[open] summary::after{transform:rotate(45deg)}\ndetails p{margin-top:10px;color:#5c4a4c;font-size:15px}\n\n/* ---------- 结尾 ---------- */\n.outro{max-width:1080px;margin:0 auto;padding:64px 5vw 120px;text-align:center}\n.outro .big{font-size:clamp(24px,3.4vw,36px);font-weight:900;color:var(--wine-deep);margin-bottom:22px}\n.outro a{display:inline-block;background:var(--wine);color:var(--ivory);padding:16px 56px;text-decoration:none;letter-spacing:.3em;font-size:16px;transition:.3s}\n.outro a:hover{background:var(--wine-deep)}\n\n/* ---------- 底部固定导航 ---------- */\nnav.bottom{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--wine-deep);display:flex;justify-content:center;box-shadow:0 -4px 24px rgba(0,0,0,.25)}\nnav.bottom a{color:var(--ivory);text-decoration:none;padding:18px clamp(12px,4vw,48px);font-size:14px;letter-spacing:.3em;opacity:.75;transition:.25s;white-space:nowrap}\nnav.bottom a:hover,nav.bottom a.active{opacity:1;background:var(--wine)}\n\n@media(max-width:640px){\n  .plan.p1,.plan.p2{margin-bottom:0}\n  .hero-brand{font-size:clamp(100px,34vw,200px)}\n}\n</style>\n<header class=\"hero\" id=\"top\">\n  <div class=\"hero-top\">\n    <span>QINGYUN NETWORK</span>\n    <span class=\"hero-no\">ISSUE · NO.2577</span>\n  </div>\n  <h1 class=\"hero-brand\">\n    <span class=\"outline\">轻云</span>\n    <span>之上</span>\n  </h1>\n  <div class=\"hero-sub\">\n    <div>\n      <p>我们花了很长时间想明白一件事:网络不该是一堵墙,而该是一阵风。轻云不喧哗、不打扰,只在你需要的时候,把世界轻轻推到你面前。</p>\n      <a class=\"hero-cta\" href=\"#plans\">浏览订阅方案</a>\n    </div>\n    <span class=\"hero-no\">EST. 2019 — 服务 120,000+ 用户</span>\n  </div>\n</header>\n\n\n<section class=\"intro\" id=\"intro\">\n  <div class=\"kicker\">卷首语</div>\n  <h2>为什么叫「轻云」</h2>\n  <p class=\"drop\">市面上的加速器,名字一个比一个响:雷霆、极光、超音速。我们偏不。云聚了又散,从来不曾用力——真正的快,是让人感觉不到「快」的存在。你不该在深夜追剧时想起缓冲圈,不该在决胜团战的瞬间想起延迟,更不该在打开一封海外邮件时,先想起自己身在何处。</p>\n  <p>轻云做的事情很简单:<em>自建线路、原生解锁、不限速</em>。三件小事,我们做了五年,并且打算一直做下去。这页面上没有倒计时促销,没有「仅限今日」——好服务不需要催促你。</p>\n</section>\n\n\n<section id=\"features\">\n  <div class=\"kicker\">我们的坚持</div>\n  <h2>三件小事</h2>\n  <p class=\"lede\">与其罗列三十项参数,不如把真正影响体验的三件事说清楚。</p>\n  <div class=\"bar-cards\">\n    <div class=\"bar-card\">\n      <div class=\"bar-card-body\">\n        <h3>自建线路,而非转租</h3>\n        <p>核心节点由我们亲自运维,IPLC 专线直连。晚高峰不塞车,是我们对「极速」二字最基本的诚意。</p>\n      </div>\n    </div>\n    <div class=\"bar-card\">\n      <div class=\"bar-card-body\">\n        <h3>原生流媒体解锁</h3>\n        <p>Netflix、Disney+、YouTube Premium 区域内容原生解锁,不是「碰运气式」的能看,而是写在服务承诺里的能看。</p>\n      </div>\n    </div>\n    <div class=\"bar-card\">\n      <div class=\"bar-card-body\">\n        <h3>克制的产品哲学</h3>\n        <p>客户端没有弹窗广告,没有「恭喜您击败 98% 用户」。打开、连接、忘掉它——工具最好的状态是透明。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n\n<section id=\"plans\">\n  <div class=\"kicker\">订阅方案</div>\n  <h2>拾级而上</h2>\n  <p class=\"lede\">三档方案,像三级台阶。多数人停在中间那一级,刚刚好。</p>\n  <div class=\"plans\">\n    <div class=\"plan p1\">\n      <h3>基础版</h3>\n      <div class=\"price\">¥15<small>/月</small></div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <a class=\"buy\" href=\"#faq\">选择基础版</a>\n    </div>\n    <div class=\"plan p2\">\n      <span class=\"tag\">多数人的选择</span>\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35<small>/月</small></div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n      <a class=\"buy\" href=\"#faq\">选择旗舰版</a>\n    </div>\n    <div class=\"plan p3\">\n      <h3>团队版</h3>\n      <div class=\"price\">¥85<small>/月</small></div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <a class=\"buy\" href=\"#faq\">洽谈团队版</a>\n    </div>\n  </div>\n</section>\n\n\n<section id=\"faq\">\n  <div class=\"kicker\">有问必答</div>\n  <h2>你可能想知道</h2>\n  <p class=\"lede\">按主题分好类了。如果看完仍有疑问,工单那头永远有真人。</p>\n\n  <div class=\"faq-group\">\n    <h3>订阅与付费</h3>\n    <details>\n      <summary>按年付中途可以退款吗?</summary>\n      <p>可以。年付用户在前 30 天内可申请全额退款;超过 30 天,按已使用月份折算退还余额,不扣任何手续费。</p>\n    </details>\n    <details>\n      <summary>支持哪些支付方式?</summary>\n      <p>支持支付宝、微信支付与银联,团队版额外支持对公转账并开具增值税发票。</p>\n    </details>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>设备与平台</h3>\n    <details>\n      <summary>支持哪些客户端?</summary>\n      <p>提供 Windows、macOS、iOS、Android 官方客户端,同时提供标准订阅链接,兼容 Clash、Surge、Shadowrocket 等主流工具,路由器端亦可配置。</p>\n    </details>\n    <details>\n      <summary>设备数超限了怎么办?</summary>\n      <p>可在用户中心随时解绑闲置设备,立即释放名额;旗舰版及以上支持付费扩容设备位。</p>\n    </details>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>速度与稳定性</h3>\n    <details>\n      <summary>晚高峰会降速吗?</summary>\n      <p>我们对所有节点设置了带宽冗余线,负载超过 70% 即自动扩容。旗舰版用户的 IPLC 专线流量不受公共节点负载影响。</p>\n    </details>\n    <details>\n      <summary>流量用超了会怎样?</summary>\n      <p>不会断网,也不会扣费。当月流量用尽后自动切换至不限量低速通道(10Mbps),次月 1 日重置。</p>\n    </details>\n  </div>\n</section>\n\n\n<div class=\"outro\">\n  <p class=\"big\">世界很大,连接它不该费力。</p>\n  <a href=\"#plans\">现在,上云 →</a>\n</div>\n\n\n<nav class=\"bottom\">\n  <a href=\"#top\">首页</a>\n  <a href=\"#features\">理念</a>\n  <a href=\"#plans\">方案</a>\n  <a href=\"#faq\">问答</a>\n</nav>\n\n</main>",
+          "hash": "e3d797373acb7e9adf5ab573f0075a398802f893e501a9b6eda0d646d7029eda",
+          "seo": {
+            "title": "轻云 — 快,应当像呼吸一样自然",
+            "keywords": "轻云,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "我们花了很长时间想明白一件事:网络不该是一堵墙,而该是一阵风。轻云不喧哗、不打扰,只在你需要的时候,把世界轻轻推到你面前。"
+          },
+          "provider": "grok",
+          "model": "kimi-k3",
+          "design": {
+            "no": "2577",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zdzln.cn",
+    "host": "p-cc141f6033.zdzln.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0699bb6c496f64718b6a15cac0c76dd9eb9bb6cb41189bfd989fbf5521e325e6",
+    "sitemap.xml": "7ade0227d0a9bacb4659fe603eff07fc3fc1189f554cd168cbdafd8505da97d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "71a0805bd38dc52ab24ed024babf024a8d3801c8da04105bf4ff645112656b5d",
+    "robots.txt": "1fda764f46c4d9a0cca0f4bc551eecdd8a13167f0619c32a86d01810b78f7209",
+    "3c7ee20adbfc5cd569130cca47fcf024.txt": "b5912914469111d6b4e327ba714c2e49019c094e79573264f22ff41e7618938c"
+  },
+  "revision": "8d460f294a9f80456fcef9a3012960dd5a1b04046bd145386eee659d64092b44"
+}
